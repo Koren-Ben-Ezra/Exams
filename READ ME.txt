@@ -4,20 +4,15 @@
         |                                                       |
         |                     README NOTE                       |
         |                                                       |
-        |   1. In your compiler, open the "Exams" file.         |
+        |             Learn how to debug your code!             |
+        |          This is necessary for polymorphism.          |
         |                                                       |
-        |   2. If you are using BlueJay,                        |
-        |      press Files --> Import --> pick "Exams" folder.  |
-        |                                                       |
-        |   3. It's really important to learn how to debug      |
-        |      for question 3,4,5 so make sure you learn it.    |
-        |                                                       |
-        |   4. Polymorphism tip:                                |
-        |      "If there is no struggle, there is no progress." |
-        |                                                       |
-        |   5. Have fun and don't forget to use protection ;)   |
-        |                                                       |
-        |         Made with love, by Koren Ben Ezra             |
-        |                koren919@gmail.com                     |
+        |           Made with love, by Koren Ben Ezra           |
+        |               koren.benezra10@gmail.com               |
         |                                                       |
         + - + - + - + - + - + - + - + - + - + - + - + - + - + - +
+        
+        
+        
+        
+        
