@@ -8,9 +8,9 @@ public class Q2 {
     // Space complexity: O(1)
     public static boolean isPythagorean(int[] arr) {
 
-        for (int c = 0; c < arr.length; c++) {
+        for (int c = 2; c < arr.length; c++) {
 
-            int low = 0, high = arr.length - 1;
+            int low = 0, high = c - 1;
 
             while (low < high - 1) {
 
