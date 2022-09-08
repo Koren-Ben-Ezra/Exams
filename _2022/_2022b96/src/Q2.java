@@ -11,7 +11,7 @@ public class Q2 {
     NOTE: Time complexity is O(log n).
     WORST CASE is that in every (log n) iteration, we would get exactly k zeros,
     therefore, the time complexity would be O(k*log n).
-    Note that k is constant --> O(k*log n) = O(log n)
+    k is constant --> O(k*log n) = O(log n)
      */
     public static int kAlmostSearch(int[] a, int num) {
 
