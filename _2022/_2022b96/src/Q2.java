@@ -3,6 +3,16 @@
  * In 2022c
  */
 public class Q2 {
+
+    // Time complexity: O(log n) [ <-- O(k*log n), but k is constant ] 
+    // Space complexity: O(1)
+    
+    /*
+    NOTE: Time complexity is O(log n).
+    WORST CASE is that in every (log n) iteration, we would get exactly k zeros,
+    therefore, the time complexity would be O(k*log n).
+    Note that k is constant --> O(k*log n) = O(log n)
+     */
     public static int kAlmostSearch(int[] a, int num) {
 
         int low = 0, high = a.length - 1;
