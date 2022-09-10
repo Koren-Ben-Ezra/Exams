@@ -1,17 +1,12 @@
 
 /---+----+----+----+----+----+----+----+----+---\
 |                                               |
-|                 README NOTE                   |
-|                                               |
-|         Learn how to debug your code!         |
-|      This is necessary for polymorphism.      |
+|             Found some mistakes?              |
+|            Want to add your code?             |
+|                   Email me                    |
 |                                               |
 |       Made with love, by Koren Ben Ezra       |
-|           koren.benezra10@gmail.com           |
+|              koren919@gmail.com               |
 |                                               |
 \---+----+----+----+----+----+----+----+----+---/
-        
-        
-        
-        
         
