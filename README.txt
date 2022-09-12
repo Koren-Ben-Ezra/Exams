@@ -1,12 +1,5 @@
+## Exam's solutions for Java intro course
+* Feel free to ask any question in the Q&A discussion, i'll do my best to answer.
+* Found some mistakes? Note me in the Q&A discussion or email me.
+* Feel free to add your code, if you can do better ;)
 
-/---+----+----+----+----+----+----+----+----+---\
-|                                               |
-|             Found some mistakes?              |
-|            Want to add your code?             |
-|                   Email me                    |
-|                                               |
-|       Made with love, by Koren Ben Ezra       |
-|              koren919@gmail.com               |
-|                                               |
-\---+----+----+----+----+----+----+----+----+---/
-        
