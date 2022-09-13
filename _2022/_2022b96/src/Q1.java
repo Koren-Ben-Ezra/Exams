@@ -8,10 +8,10 @@ public class Q1 {
         // Call the overridden function with the starting values:
         // tempResult = num
         // equationStr = num, as string.
-        return calc(num, result, (double) num, maxOp, String.valueOf(num));
+        return calc(num, result, num, maxOp, String.valueOf(num));
     }
 
-    private static int calc(int num, int result, double tempResult, int maxOp, String equationStr) {
+    private static int calc(int num, int result, int tempResult, int maxOp, String equationStr) {
         
         // Checks if passed max operations.
         if (maxOp < 0)
