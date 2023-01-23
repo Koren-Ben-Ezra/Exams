@@ -8,6 +8,6 @@
 Tips for the final exam
 * Offered by students for students!!
 * This file helped you?  Add one tip to help others! 
->https://drive.google.com/drive/folders/1vF-m-aj86DT36aaA0VcMjh1zDUPLBZs5?usp=share_link
+>  https://bit.ly/TIPS_AND_TRICKS_JAVA
 
 > koren919@gmail.com
