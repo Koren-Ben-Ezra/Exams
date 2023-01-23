@@ -4,7 +4,7 @@
 * Found some mistakes? Write it in the 🪲 discussions!
 * Feel free to add your code, if you can do better ;)
 
-# --> NEW <--
+# 🤩🥳--> NEW <--🥳🤩
 Tips for the final exam
 * Offered by student for students!!
 * This file helped you?  Add one tip to help others! 
