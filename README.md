@@ -6,7 +6,7 @@
 
 # 🤩🥳--> NEW <--🥳🤩
 Tips for the final exam
-* Offered by student for students!!
+* Offered by students for students!!
 * This file helped you?  Add one tip to help others! 
 >https://drive.google.com/drive/folders/1vF-m-aj86DT36aaA0VcMjh1zDUPLBZs5?usp=share_link
 
