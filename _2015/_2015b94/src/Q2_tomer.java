@@ -13,9 +13,11 @@ public class Q2_tomer {
         int l = 0, r = 1, sum = a[l];
 
         while (r < a.length) {
-            sum += a[r++];
+            sum += a[r];
+            r++;
             while (sum > k) {
-                sum -= a[l++];
+                sum -= a[l];
+                l++;
             }
         }
         return r - l + 1;
