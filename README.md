@@ -4,11 +4,5 @@
 * Found some mistakes? Write it in the 🪲 discussions!
 * Feel free to add your code, if you can do better ;)
 
-# 🤩🥳--> NEW <--🥳🤩
-Tips for the final exam
-* Offered by students for students!!
-* This file helped you?  Add one tip to help others! 
->  https://bit.ly/TIPS_AND_TRICKS_JAVA
-
 > koren919@gmail.com
 
