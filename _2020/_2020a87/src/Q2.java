@@ -4,7 +4,7 @@
  */
 public class Q2 {
 
-    // Time complexity: O(n)
+    // Time complexity: O(n^2)
     // Space complexity: O(1)
     public static void printTriplets(int[] a, int num){
 
