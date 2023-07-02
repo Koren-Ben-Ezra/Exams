@@ -4,6 +4,7 @@
 * Found some mistakes? Write it in the 🪲 discussions!
 * Feel free to add your code, if you can do better ;)
 
+# #FREE_EDUCATION
 > koren919@gmail.com
 # GOOD LUCK!!
 ![image](https://github.com/Koren-Ben-Ezra/Exams/assets/109624775/3dd523f8-0376-4544-82ee-a9c0533ad87a)
