@@ -3,6 +3,7 @@
 * Some times there are bonus files of poly or trees, that ment for you guys to debug it. 
 * Found some mistakes? Write it in the 🪲 discussions!
 * Feel free to add your code, if you can do better ;)
+* Help improve the 'Tips' file, Email me! 
 
 # #FREE_EDUCATION
 > koren919@gmail.com
